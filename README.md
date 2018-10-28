@@ -4,5 +4,3 @@ En esta entrega, los personajes se ven más jóvenes dado que el argumento crono
 
 Este juego fue una pequeña sorpresa para los fans de la serie, primero porque es un juego que se salió de las continuaciones interminables de Street Fighter II que apenas ofrecían mejoras o cambios de jugabilidad, por tanto la subsaga Alpha es programada desde cero y con una nueva mecánica. Pero de todas formas es víctima de las prisas de sus programadores y solo hay 10 luchadores controlables, en contra de los 17 
 
-Al aire libre
-Al aire libreAl aire libre :Streetfighter1.jpg
